@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.08.2022 00:52:51
+
+newmtl Knife
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.4000 0.4000 0.4000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\GONGZUO\MOD\20220716\squid-dagger\textures\T1_C.jpg
+	map_Kd D:\GONGZUO\MOD\20220716\squid-dagger\textures\T1_C.jpg
+	map_bump normalmap_texture_Normal_Bump.tga
